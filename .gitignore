@@ -1,0 +1,40 @@
+# -------------------
+# Python
+# -------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# -------------------
+# Output data
+# -------------------
+output/
+*.json
+*.csv
+*.obj
+*.ifc
+
+# -------------------
+# OS / editor junk
+# -------------------
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# -------------------
+# Logs
+# -------------------
+*.log
+
+# -------------------
+# Jupyter (if you use it)
+# -------------------
+.ipynb_checkpoints/
